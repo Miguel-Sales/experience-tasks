@@ -1,0 +1,60 @@
+
+*{
+margin: 0;
+padding: 0;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #483d8b;
+}
+
+.login-caixa {
+    max-width: 400px;
+    margin: 150px auto;
+    padding: 20px;
+    border: 1px solid whitesmoke;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+img{
+    width: 420px;
+}
+
+
+h2 {
+    margin-bottom: 30px;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 4px;
+}
+
+label{
+    color: whitesmoke;
+}
+
+
+a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+button {
+    background-color:grey;
+    color: whitesmoke;
+    border: none;
+    cursor: pointer;
+}
